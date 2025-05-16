@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Osama Ali</h1>
-<h3 align="center">A passionate AI ML engineer</h3>
+<h3 align="center">A passionate AI ML engineer and Fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LmqxtJxmdSIsaKbmX0TuyZWYb3s66WxcYw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-dev01&label=Profile%20views&color=0e75b6&style=flat" alt="osama-dev01" /> </p>
